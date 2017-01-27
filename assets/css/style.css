@@ -1,0 +1,24 @@
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.row {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid red;
+
+}
+
+[class^="col-xs"] {
+  border: 1px solid blue;
+}
+
+.col-xs-8 {
+	height: 70px;
+}
+
+.col-xs-4 {
+	height: 70px;
+}
